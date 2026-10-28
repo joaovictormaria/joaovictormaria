@@ -58,14 +58,56 @@ public class JoaoVictor : Developer
 
 ### `> projetos --destaque`
 
-<p align="center">
-  <a href="https://github.com/joaovictormaria/veldocs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictormaria&repo=veldocs&theme=tokyonight&hide_border=true&description_lines_count=2" alt="veldocs" /></a>
-  <a href="https://github.com/joaovictormaria/velnoxia-APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictormaria&repo=velnoxia-APP&theme=tokyonight&hide_border=true&description_lines_count=2" alt="velnoxia-APP" /></a>
-  <a href="https://github.com/joaovictormaria/catholicae"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictormaria&repo=catholicae&theme=tokyonight&hide_border=true&description_lines_count=2" alt="catholicae" /></a>
-  <a href="https://github.com/joaovictormaria/defender-of-the-little-ones"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictormaria&repo=defender-of-the-little-ones&theme=tokyonight&hide_border=true&description_lines_count=2" alt="defender-of-the-little-ones" /></a>
-  <a href="https://github.com/joaovictormaria/chronos-pomodoro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictormaria&repo=chronos-pomodoro&theme=tokyonight&hide_border=true&description_lines_count=2" alt="chronos-pomodoro" /></a>
-  <a href="https://github.com/joaovictormaria/estudos-csharp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=joaovictormaria&repo=estudos-csharp&theme=tokyonight&hide_border=true&description_lines_count=2" alt="estudos-csharp" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📂 <a href="https://github.com/joaovictormaria/veldocs">VELDOCS</a></h4>
+      <sub>SaaS B2B de gestão inteligente de documentos empresariais</sub><br/><br/>
+      <img src="https://img.shields.io/github/languages/top/joaovictormaria/veldocs?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Linguagem" />
+      <img src="https://img.shields.io/github/last-commit/joaovictormaria/veldocs?style=flat-square&label=atualizado&color=bb9af7&labelColor=1a1b27" alt="Último commit" />
+      <img src="https://img.shields.io/github/stars/joaovictormaria/veldocs?style=flat-square&color=e0af68&labelColor=1a1b27" alt="Estrelas" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🍕 <a href="https://github.com/joaovictormaria/velnoxia-APP">Velnox APP</a></h4>
+      <sub>Painel administrativo e PDV white-label para pizzarias</sub><br/><br/>
+      <img src="https://img.shields.io/github/languages/top/joaovictormaria/velnoxia-APP?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Linguagem" />
+      <img src="https://img.shields.io/github/last-commit/joaovictormaria/velnoxia-APP?style=flat-square&label=atualizado&color=bb9af7&labelColor=1a1b27" alt="Último commit" />
+      <img src="https://img.shields.io/github/stars/joaovictormaria/velnoxia-APP?style=flat-square&color=e0af68&labelColor=1a1b27" alt="Estrelas" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⛪ <a href="https://github.com/joaovictormaria/catholicae">Catholicaê</a></h4>
+      <sub>Encontre igrejas católicas perto de você, com mapa e rotas</sub><br/><br/>
+      <img src="https://img.shields.io/github/languages/top/joaovictormaria/catholicae?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Linguagem" />
+      <img src="https://img.shields.io/github/last-commit/joaovictormaria/catholicae?style=flat-square&label=atualizado&color=bb9af7&labelColor=1a1b27" alt="Último commit" />
+      <img src="https://img.shields.io/github/stars/joaovictormaria/catholicae?style=flat-square&color=e0af68&labelColor=1a1b27" alt="Estrelas" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🐾 <a href="https://github.com/joaovictormaria/defender-of-the-little-ones">Defender of the Little Ones</a></h4>
+      <sub>App mobile para denúncia de maus-tratos e proteção animal</sub><br/><br/>
+      <img src="https://img.shields.io/github/languages/top/joaovictormaria/defender-of-the-little-ones?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Linguagem" />
+      <img src="https://img.shields.io/github/last-commit/joaovictormaria/defender-of-the-little-ones?style=flat-square&label=atualizado&color=bb9af7&labelColor=1a1b27" alt="Último commit" />
+      <img src="https://img.shields.io/github/stars/joaovictormaria/defender-of-the-little-ones?style=flat-square&color=e0af68&labelColor=1a1b27" alt="Estrelas" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⏱️ <a href="https://github.com/joaovictormaria/chronos-pomodoro">Chronos Pomodoro</a></h4>
+      <sub>Timer Pomodoro para organizar os estudos</sub><br/><br/>
+      <img src="https://img.shields.io/github/languages/top/joaovictormaria/chronos-pomodoro?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Linguagem" />
+      <img src="https://img.shields.io/github/last-commit/joaovictormaria/chronos-pomodoro?style=flat-square&label=atualizado&color=bb9af7&labelColor=1a1b27" alt="Último commit" />
+      <img src="https://img.shields.io/github/stars/joaovictormaria/chronos-pomodoro?style=flat-square&color=e0af68&labelColor=1a1b27" alt="Estrelas" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>📘 <a href="https://github.com/joaovictormaria/estudos-csharp">Estudos C#</a></h4>
+      <sub>Exercícios de C# e Programação Orientada a Objetos</sub><br/><br/>
+      <img src="https://img.shields.io/github/languages/top/joaovictormaria/estudos-csharp?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Linguagem" />
+      <img src="https://img.shields.io/github/last-commit/joaovictormaria/estudos-csharp?style=flat-square&label=atualizado&color=bb9af7&labelColor=1a1b27" alt="Último commit" />
+      <img src="https://img.shields.io/github/stars/joaovictormaria/estudos-csharp?style=flat-square&color=e0af68&labelColor=1a1b27" alt="Estrelas" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   🌐 <b>Portfólio:</b> <a href="https://portifolio.velnoxia.com.br">portifolio.velnoxia.com.br</a>
@@ -76,16 +118,18 @@ public class JoaoVictor : Developer
 ### `> git log --stats`
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaovictormaria&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" alt="Estatísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictormaria&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=pt-br" alt="Linguagens" />
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Detalhes do perfil" />
+</p>
+
+<p align="center">
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horário mais produtivo" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositórios por linguagem" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens com mais commits" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=joaovictormaria&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=joaovictormaria&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" alt="Gráfico de atividade" />
 </p>
 
 <p align="center">
