@@ -154,6 +154,7 @@ public class JoaoVictor : Developer
 ### `> contato --abrir`
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-rodrigues-nascimento-8b9aa11b1/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7dcfff" alt="LinkedIn" /></a>
   <a href="mailto:joaovictormaria33@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=70a5fd" alt="Gmail" /></a>
   <a href="https://instagram.com/victor.rodrigues.j"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=bb9af7" alt="Instagram" /></a>
   <a href="https://portifolio.velnoxia.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=vercel&logoColor=73daca" alt="Portfólio" /></a>
