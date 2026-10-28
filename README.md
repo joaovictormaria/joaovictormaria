@@ -33,6 +33,16 @@ public class JoaoVictor : Developer
 
 ---
 
+### `> experiencia --profissional`
+
+```yaml
+- cargo:   Estagiário de Desenvolvimento
+  empresa: PawKeepr
+  periodo: jul/2025 → jul/2026
+```
+
+---
+
 ### `> stack --list`
 
 <table>
@@ -93,11 +103,11 @@ public class JoaoVictor : Developer
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>⏱️ <a href="https://github.com/joaovictormaria/chronos-pomodoro">Chronos Pomodoro</a></h4>
-      <sub>Timer Pomodoro para organizar os estudos</sub><br/><br/>
-      <img src="https://img.shields.io/github/languages/top/joaovictormaria/chronos-pomodoro?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Linguagem" />
-      <img src="https://img.shields.io/github/last-commit/joaovictormaria/chronos-pomodoro?style=flat-square&label=atualizado&color=bb9af7&labelColor=1a1b27" alt="Último commit" />
-      <img src="https://img.shields.io/github/stars/joaovictormaria/chronos-pomodoro?style=flat-square&color=e0af68&labelColor=1a1b27" alt="Estrelas" />
+      <h4>🚀 <a href="https://github.com/joaovictormaria/velnox-ia">Velnox.IA</a> · <a href="https://velnox-ia.vercel.app">ver online ↗</a></h4>
+      <sub>Landing page com painel admin e captação de leads</sub><br/><br/>
+      <img src="https://img.shields.io/github/languages/top/joaovictormaria/velnox-ia?style=flat-square&color=7aa2f7&labelColor=1a1b27" alt="Linguagem" />
+      <img src="https://img.shields.io/github/last-commit/joaovictormaria/velnox-ia?style=flat-square&label=atualizado&color=bb9af7&labelColor=1a1b27" alt="Último commit" />
+      <img src="https://img.shields.io/github/stars/joaovictormaria/velnox-ia?style=flat-square&color=e0af68&labelColor=1a1b27" alt="Estrelas" />
     </td>
     <td width="50%" valign="top">
       <h4>📘 <a href="https://github.com/joaovictormaria/estudos-csharp">Estudos C#</a></h4>
