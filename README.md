@@ -28,7 +28,7 @@
 | [chronos-pomodoro](https://github.com/joaovictormaria/chronos-pomodoro) | Timer Pomodoro para organizar os estudos | React · TypeScript |
 | [estudos-csharp](https://github.com/joaovictormaria/estudos-csharp) | Exercícios de C# e orientação a objetos | C# · .NET |
 
-🌐 **Portfólio:** [my-portifolio-sigma-nine.vercel.app](https://my-portifolio-sigma-nine.vercel.app)
+🌐 **Portfólio:** (https://portifolio.velnoxia.com.br/)((https://portifolio.velnoxia.com.br/))
 
 ## 📊 Estatísticas
 
