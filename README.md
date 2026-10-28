@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=220&section=header&text=Jo%C3%A3o%20Victor&fontSize=52&fontColor=70a5fd&fontAlignY=38&animation=fadeIn&desc=Desenvolvedor%20Full-Stack%20em%20forma%C3%A7%C3%A3o&descSize=18&descAlignY=58&descAlign=50" alt="Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7aa2f7&height=220&section=header&text=Jo%C3%A3o%20Victor&fontSize=52&fontColor=70a5fd&fontAlignY=38&animation=fadeIn&desc=Desenvolvedor%20Full-Stack&descSize=18&descAlignY=58&descAlign=50" alt="Banner" />
 </p>
 
 <p align="center">
@@ -21,9 +21,9 @@
 public class JoaoVictor : Developer
 {
     public string Localizacao => "Aracaju, SE 🇧🇷";
-    public string Formacao    => "Análise e Desenvolvimento de Sistemas";
+    public string Formacao    => "Formado em Análise e Desenvolvimento de Sistemas";
 
-    public string[] Estudando => ["C#", ".NET", "Arquitetura de Software"];
+    public string[] Estudando => ["C#", ".NET", "Aprimorando conhecimentos!"];
     public string[] Construo  => ["SaaS B2B", "Apps full-stack", "Landing pages"];
 
     public bool AbertoAOportunidades => true; // Dev júnior · PJ ou CLT
@@ -68,7 +68,7 @@ public class JoaoVictor : Developer
 </p>
 
 <p align="center">
-  🌐 <b>Portfólio:</b> <a href="https://my-portifolio-sigma-nine.vercel.app">my-portifolio-sigma-nine.vercel.app</a>
+  🌐 <b>Portfólio:</b> <a href="https://portifolio.velnoxia.com.br">portifolio.velnoxia.com.br</a>
 </p>
 
 ---
@@ -102,7 +102,7 @@ public class JoaoVictor : Developer
 <p align="center">
   <a href="mailto:joaovictormaria33@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=70a5fd" alt="Gmail" /></a>
   <a href="https://instagram.com/victor.rodrigues.j"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=bb9af7" alt="Instagram" /></a>
-  <a href="https://my-portifolio-sigma-nine.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=vercel&logoColor=73daca" alt="Portfólio" /></a>
+  <a href="https://portifolio.velnoxia.com.br"><img src="https://img.shields.io/badge/Portf%C3%B3lio-0d1117?style=for-the-badge&logo=vercel&logoColor=73daca" alt="Portfólio" /></a>
 </p>
 
 <p align="center">
