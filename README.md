@@ -6,8 +6,8 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** em Aracaju/SE
-- 📚 Atualmente estudando **C#/.NET** e desenvolvendo projetos web
+- 🎓 Formado em **Análise e Desenvolvimento de Sistemas** em Aracaju/SE
+- 📚 Atualmente estudando **C#/.NET** / Aprimorando conhecimentos!
 - 💼 Aberto a oportunidades como desenvolvedor júnior (PJ ou CLT)
 - 🤝 Aberto também para cooperação em projetos
 
